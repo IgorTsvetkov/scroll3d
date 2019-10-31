@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <scroll360 step="1">
+    <scroll360>
         <img src="./../images/MAZ_303_Bus_2019_360_720_50-1.jpg">
         <img src="./../images/MAZ_303_Bus_2019_360_720_50-2.jpg">
         <img src="./../images/MAZ_303_Bus_2019_360_720_50-3.jpg">
