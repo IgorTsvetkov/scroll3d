@@ -1,16 +1,28 @@
 <template>
   <div id="app">
-    <hello-world>123</hello-world>
+    <scroll360>
+      <img src="./../images/MAZ_1.jpg"/>
+      <img src="./../images/MAZ_2.jpg"/>
+      <img src="./../images/MAZ_3.jpg"/>
+      <img src="./../images/MAZ_4.jpg"/>
+      <img src="./../images/MAZ_5.jpg"/>
+      <img src="./../images/MAZ_6.jpg"/>
+      <img src="./../images/MAZ_7.jpg"/>
+      <img src="./../images/MAZ_8.jpg"/>
+      <img src="./../images/MAZ_9.jpg"/>
+      <img src="./../images/MAZ_10.jpg"/>
+      <img src="./../images/MAZ_11.jpg"/>
+    </scroll360>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import scroll360 from './components/scroll360.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    scroll360
   }
 }
 </script>
